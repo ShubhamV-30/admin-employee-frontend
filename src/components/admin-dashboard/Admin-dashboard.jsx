@@ -41,7 +41,6 @@ const AdminDashboard = () => {
         </Navbar>
         <div style={{ minHeight: 'calc(100vh - 10rem)', width: '80%', margin: '0 auto', marginTop: '3rem', display: 'grid', placeItems: 'center', border: '2px solid #ddd' }}>
           <center><h1 style={{ color: 'blue' }}>WELCOME TO ADMIN-DASHBOARD</h1></center>
-          <center><h2>made by rajni saini</h2></center>
           <div style={{ backgroundColor: 'pink', margin: '10px 0px', padding: '20px 30px', border: '1px solid black', borderRadius: '12px', textDecoration: 'none' }} >
             <h1><Link to="/EmpDashboard">GO TO EMPLOYEE-DASHBOARD</Link></h1>
           </div>
